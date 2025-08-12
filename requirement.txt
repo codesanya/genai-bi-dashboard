@@ -1,0 +1,8 @@
+streamlit>=1.18
+pandas>=1.5
+plotly>=5.14
+sqlalchemy>=1.4
+sqlite3
+langchain>=0.0.300
+openai>=0.27.0
+python-dotenv>=1.0.0
