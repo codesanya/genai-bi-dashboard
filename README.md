@@ -14,6 +14,7 @@ A **Generative AI-driven dashboard** that integrates **LangChain**, **Streamlit*
 ---
 
 ## 📂 Project Structure
+```markdown
 genai-bi-dashboard/
 │
 ├── app.py # Streamlit dashboard app
@@ -23,7 +24,7 @@ genai-bi-dashboard/
 ├── requirements.txt # Dependencies
 └── README.md # Documentation
 
-
+```
 ---
 
 ## 🛠️ Installation
